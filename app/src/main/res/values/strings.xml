@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login DSM</string>
+    <string name="mail">Correo electronico</string>
+    <string name="pass">Contraseña</string>
+    <string name="btnlogin">Login</string>
+    <string name="btnloginGoogle">Ingresar con google</string>
+    <string name="logueado">Bienvenido</string>
+    <string name="red_social">Red Social Firebase</string>
+    <string name="perfilImage">Perfil</string>
+</resources>
